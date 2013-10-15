@@ -1,3 +1,10 @@
+ldb (1:1.1.16-0.1~aroth~ppa1) raring; urgency=low
+
+  * new upstream release
+  * backport to raring
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Tue, 15 Oct 2013 12:12:56 +0200
+
 ldb (1:1.1.15-1.1) experimental; urgency=low
 
   * Non-maintainer upload.
